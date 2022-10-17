@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Lions
+    uniqueID: 761315335
+    locked: 0
+  - name: Paladins
+    uniqueID: 45640265
+    locked: 0
+  - name: Galra
+    uniqueID: 894353865
+    locked: 0
+  - name: Daibazaal
+    uniqueID: 3334294459
+    locked: 0
+  - name: Altea
+    uniqueID: 1550619219
+    locked: 0
+  - name: Balmera
+    uniqueID: 656272219
+    locked: 0
+  - name: Castillo
+    uniqueID: 2957914859
+    locked: 0
+  - name: Quintaesencia
+    uniqueID: 3550823335
+    locked: 0
