@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lotor
+  m_Controller: {fileID: 9100000, guid: 058cfadc26cce8d48bbd3a952877a120, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b20513861fe4bd940834d3232c11e652, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0edfe223549200c42b27fd71ec3ad99a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8380a68ec9137de4c9b7a8506fdd0acc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4d0e6325ec41ef6458a8fb7712534e05, type: 2}

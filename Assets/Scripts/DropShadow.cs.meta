@@ -4,7 +4,7 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - ShadowMaterial: {fileID: 2100000, guid: 9d247b5de2ba0ee4f876ad7c618afc68, type: 2}
+  - ShadowMaterial: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
