@@ -6,12 +6,6 @@ using UnityEngine.UI;
 public class HologramController : MonoBehaviour
 {
     [SerializeField] private Button _BL, _RL, _GL, _BluL, _YL, _Extra, _Altea, _Daibazaal, _Balmera, _Ship;
-    
-    void Start()
-    {
-
-    }
-
     public void Main_Non_Interactable()
     {
         _BL.interactable = false;
